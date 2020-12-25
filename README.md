@@ -66,19 +66,19 @@ Boot-Class-Path: javassist-3.23.1-GA.jar
 
 1. 制作可执行`jar`包
 
-   ![image-20201225155931670](C:\Users\MC\AppData\Roaming\Typora\typora-user-images\image-20201225155931670.png)
+   
 
 2. 构建`agent.jar`
 
-   ![image-20201225161046098](C:\Users\MC\AppData\Roaming\Typora\typora-user-images\image-20201225161046098.png)
+   
 
 3. build artifacts
 
-   ![image-20201225161201474](C:\Users\MC\AppData\Roaming\Typora\typora-user-images\image-20201225161201474.png)
+  
 
 4. 执行`jar`包构建
 
-   ![image-20201225162341332](C:\Users\MC\AppData\Roaming\Typora\typora-user-images\image-20201225162341332.png)
+   
 
 ### 运行`BaseMBean.java`
 
