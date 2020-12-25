@@ -65,18 +65,18 @@ Boot-Class-Path: javassist-3.23.1-GA.jar
 ### 制作agent.jar
 
 1. 制作可执行`jar`包
-
-   
+![image-20201225155931670](https://github.com/dwyanewede/java-agent/blob/master/src/main/resources/project.picture/image-20201225155931671.png)
 
 2. 构建`agent.jar`
-
+![image-20201225155931670](https://github.com/dwyanewede/java-agent/blob/master/src/main/resources/project.picture/image-20201225161046092.png)
    
 
 3. build artifacts
+![image-20201225155931670](https://github.com/dwyanewede/java-agent/blob/master/src/main/resources/project.picture/image-20201225161201473.png)
 
-  
 
 4. 执行`jar`包构建
+![image-20201225155931670](https://github.com/dwyanewede/java-agent/blob/master/src/main/resources/project.picture/image-20201225162341334.png)
 
    
 
