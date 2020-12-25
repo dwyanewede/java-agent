@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Agent-Class: com.example.demo.TestAgent
+Can-Redefine-Classes: true
+Created-By: shangxs
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Boot-Class-Path: javassist-3.23.1-GA.jar
